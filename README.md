@@ -6,7 +6,7 @@
 
 Could be used to find printers (for example, on port 9100) and any other devices and services in local network.
 
-The device should be connected to a Wi-Fi network. [wifi package](https://pub.dev/packages/wifi) allows to get the local IP address / network subnet. 
+The device should be connected to a Wi-Fi network.
 
 The library tested on both, Android and iOS platforms.
 
